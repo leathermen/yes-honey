@@ -2,7 +2,7 @@
 
 require 'logic.php';
 
-//TODO: define $questionAnswered
-//TODO: define $answerPositive
+$questionAnswered = isQuestionAnswered();
+$answerPositive = yesOrNo($answer_array);
 
 require 'template.php';
