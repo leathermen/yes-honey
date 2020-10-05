@@ -17,3 +17,4 @@ function yesOrNo($answer_array)
 }
 
 
+//Тест
